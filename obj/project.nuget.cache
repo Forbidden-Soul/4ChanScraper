@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BF2HU2oHY2XVkEut9yHeJn1zxKZSg8ZhnHbtkGTIF6ul3Hv62OMeSnumTqbc5F5b1fYUvawPDfAOMSvnEghYZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emerald Ink\\source\\repos\\4ChanScraper\\4ChanScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emerald Ink\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
